@@ -19,3 +19,8 @@ Para este análisis, se utilizarán las cuentas más influyentes de Colombia que
 
 ## Red social
 #### Twitter
+
+## Base de datos relacional: 
+![Captura de Pantalla 2022-01-18 a la(s) 8 23 01 a  m](https://user-images.githubusercontent.com/82527167/149945426-b6833eb9-6b5c-4045-b65c-6fbee1b06ffa.png)
+
+## Hashtags más utilizados
