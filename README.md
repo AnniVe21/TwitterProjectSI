@@ -7,9 +7,9 @@ El uso de las redes sociales ha ido evolucionando a medida que nos vamos adaptan
 Para este análisis, se utilizarán las cuentas más influyentes de Colombia que han sido seleccionadas en un estudio realizado por la plataforma Quantico. Las 30 cuentas por analizar hacen parte de las categorías: Noticias, Radio y Periodismo. Con el fin de tener resultados certeros sobre cómo se mueven las noticias a lo largo y ancho del país y si son estas cuentas quienes más influencia tienen en los resultados para los usuarios de este territorio geográfico. Además, se consolidarán los resultados del análisis en una aplicación en la cual se puedan visualizar los datos a partir del software Tableau.
 
 ## Objetivos
-### General:
+#### General:
 * Analizar las dinámicas de las cuentas de prensa más influyentes en Colombia.
-### Específicos:
+#### Específicos:
 * Extraer información a partir de una API creada en esta red social.
 * Crear una aplicación que muestre los resultados de estudio
 
