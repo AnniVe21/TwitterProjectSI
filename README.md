@@ -19,7 +19,7 @@ Para este análisis, se utilizarán las cuentas más influyentes de Colombia que
 #### Twitter
 
 ## Hashtags más utilizados
-
+![alt text](https://github.com/AnniVe21/TwitterProjectSI/blob/main/3D%20Word2Vec%20WordCloud hashtag.png)
  #laesperanzaempiezaenelsenado
 37 #lomásleído
 28 #oigolafm
@@ -49,7 +49,6 @@ word2vec 2D plot
 ![alt text](https://github.com/AnniVe21/TwitterProjectSI/blob/main/2D%20word2Vec%20Tweets.png)
 word2vec 3D plot
 ![alt text](https://github.com/AnniVe21/TwitterProjectSI/blob/main/3D%20Word2Vec%20Tweets.png)
-
 ## Visualización de datos (Tableau)
 * TEMAS
 https://public.tableau.com/views/Palabras_16444586883680/Palabras?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
