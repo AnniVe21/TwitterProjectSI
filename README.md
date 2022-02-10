@@ -19,6 +19,7 @@ Para este análisis, se utilizarán las cuentas más influyentes de Colombia que
 #### Twitter
 
 ## Hashtags más utilizados
+<img src="https://github.com/AnniVe21/TwitterProjectSI/blob/main/WordCloud%20hashtag.png" width="48">
 ![alt text](https://github.com/AnniVe21/TwitterProjectSI/blob/main/WordCloud%20hashtag.png)
  #laesperanzaempiezaenelsenado
 37 #lomásleído
