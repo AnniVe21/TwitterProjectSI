@@ -11,11 +11,9 @@ Para este análisis, se utilizarán las cuentas más influyentes de Colombia que
 * Analizar las dinámicas de las cuentas de prensa más influyentes en Colombia.
 #### Específicos:
 * Extraer información a partir de una API creada en esta red social.
-* Crear una aplicación que muestre los resultados de estudio
+* Evidenciar los resultados graficamente desde la plataforma Tableau con interpretaciones lógicas.
+* Realizar análisis de lenguaje natural y relevar las temáticas más relevantes en la plataforma.
 
-## Preguntas de Investigación:
-*¿Cuáles son los hashtags más usados por las cuentas más influyentes en la prensa colombiana?
-*¿Son estos hashtags certeros a la hora de buscar qué está pasando en Colombia?
 
 ## Red social
 #### Twitter
@@ -43,6 +41,8 @@ Para este análisis, se utilizarán las cuentas más influyentes de Colombia que
 12 #raspandolaolla
 12 #estoescambio
 12 #códigocaracol
+
+## Análisis de lenguaje natural
 
 ## Visualización de datos (Tableau)
 * TEMAS
