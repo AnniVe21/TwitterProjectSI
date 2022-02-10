@@ -1,12 +1,6 @@
 # TWEEPY API (Tendencias Colombia) 
 Data scrapping with twitter (API TWEEPY) about hashtag trending in Colombia.<br>
 
-### Proyecto Final Sistemas de Información:
-Nayibe Yesenia Areas
-Nataly Ramirez Urrego
-Jonathan Steven Rincón R.
-Anni Melissa Velandia E.
-
 ## Introducción 
 El uso de las redes sociales ha ido evolucionando a medida que nos vamos adaptando a los medios tecnológicos en la cotidianidad, por esto actualmente se han convertido en el medio de comunicación más usado a nivel global. Desde hace un par de años se han estado creando distintas redes sociales que responden a las necesidades e intereses de las cadenas de prensa e incluso de distintos usuarios. En este caso, nos enfocaremos en Twitter la cual es una plataforma digital que permite compartir contenido en textos cortos e incluso se puede agregar material audiovisual. Es una red que facilita el intercambio de información de diversos temas y la interacción entre miles de usuarios de todas partes del mundo, y en este caso unos más influyentes que otros. Esta influencia se viene midiendo en la cantidad de seguidores, tweets que son replicados por otros usuarios y la interacción que tienen con estas cuentas. Los anteriores elementos son propios de la red social con los cuales se pueden extraer datos de distintas cuentas y hacer análisis sobre las dinámicas de esta. Como es bien sabido, Twitter se ha vuelto una herramienta de marketing, negocios e incluso como generador de polémicas y discusiones de interés, y es por esto que en este proyecto se quieren analizar las dinámicas que diariamente las cuentas de periodismo de Colombia tienen para generar visualizaciones, imponer temas que sean tendencia e incluso ganar más seguidores.
 
@@ -49,6 +43,10 @@ Para este análisis, se utilizarán las cuentas más influyentes de Colombia que
 12 #códigocaracol
 
 ## Análisis de lenguaje natural
+
+# Embedding:
+![alt text](https://github.com/AnniVe21/TwitterProjectSI/blob/main/2D%20word2Vec%20Tweets.png)
+
 
 ## Visualización de datos (Tableau)
 * TEMAS
