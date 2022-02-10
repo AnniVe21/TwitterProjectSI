@@ -22,22 +22,23 @@ Para este análisis, se utilizarán las cuentas más influyentes de Colombia que
 
 ## Hashtags más utilizados
 <img src="https://realpolitikmundial.files.wordpress.com/2015/09/discurso-santos.png" alt="Farc | RealPolitikMundial" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 400px; height: 220.331px; margin: 0px;"> 16 #laesperanzaempiezaenelsenado
-11 #mañanasblu
-11 #uncrimenes
-9 #elreportecoronell
-8 #felizviernes
-8 #elpaísenvivo
-7 #oigolafm
-6 #encolombiaesdepelicula
-5 #alaire
-4 #1
-4 #botize
-4 #esnoticia
-4 #afondo
-4 #deportes
-4 #covid19
-4 #petroenelmeta
-4 #salud
-3 #vocesysonidos
-3 #pelaezdefranciscoenlaw
-3 #eldeuribees
+37 #lomásleído
+28 #oigolafm
+26 #felizviernes
+26 #noticiasuno|
+24 #pelaezdefranciscoenlaw
+20 #vocesysonidos
+20 #lagranencuesta
+19 #elpaísenvivo
+18 #suciocomochar
+18 #losdanieles
+16 #laesperanzaempiezaenelsenado
+16 #elreportecoronell
+16 #deportes
+16 #borrachonovale
+16 #chariluminado
+15 #mañanasblu
+12 #animedel1
+12 #raspandolaolla
+12 #estoescambio
+12 #códigocaracol
