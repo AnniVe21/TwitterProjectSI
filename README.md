@@ -45,8 +45,10 @@ Para este análisis, se utilizarán las cuentas más influyentes de Colombia que
 ## Análisis de lenguaje natural
 
 # Embedding:
+word2vec 2D plot
 ![alt text](https://github.com/AnniVe21/TwitterProjectSI/blob/main/2D%20word2Vec%20Tweets.png)
-
+word2vec 3D plot
+https://github.com/AnniVe21/TwitterProjectSI/blob/main/3D%20Word2Vec%20Tweets.png
 
 ## Visualización de datos (Tableau)
 * TEMAS
