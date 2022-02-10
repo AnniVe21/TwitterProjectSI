@@ -21,7 +21,7 @@ Para este análisis, se utilizarán las cuentas más influyentes de Colombia que
 #### Twitter
 
 ## Hashtags más utilizados
-<img src="https://realpolitikmundial.files.wordpress.com/2015/09/discurso-santos.png" alt="Farc | RealPolitikMundial" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 400px; height: 220.331px; margin: 0px;"> 16 #laesperanzaempiezaenelsenado
+<img src="/pics/logo.png" alt="NubeDePalabras">16 #laesperanzaempiezaenelsenado
 37 #lomásleído
 28 #oigolafm
 26 #felizviernes
