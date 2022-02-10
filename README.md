@@ -42,3 +42,13 @@ Para este análisis, se utilizarán las cuentas más influyentes de Colombia que
 12 #raspandolaolla
 12 #estoescambio
 12 #códigocaracol
+
+## Visualización de datos (Tableau)
+* TEMAS
+https://public.tableau.com/views/Palabras_16444586883680/Palabras?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
+* LIKES DE TWEETS POR USUARIO
+https://public.tableau.com/views/Tweets-likes/likes-tweets?:language=es-ES&:display_count=n&:origin=viz_share_link
+* TWEETS Y RETWEETS POR USUARIO 
+https://public.tableau.com/views/TweetsyRetweets/Dashboard3?:language=es-ES&:display_count=n&:origin=viz_share_link
+* ANALISIS DE SENTIMIENTO 
+https://public.tableau.com/views/Tweets_16444448010910/Sentimiento?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
